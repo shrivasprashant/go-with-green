@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body,body{
+html,body{
     width: 100%;
     height: 100%;
 
@@ -12,5 +12,5 @@ body,body{
 #title{
     text-align: center;
     margin-top: 20px;
-    color: aqua;
+    color: green;
 }
